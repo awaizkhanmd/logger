@@ -11,4 +11,15 @@ export default{
      fatal:{ color:'redBright',   writeToFile:true}   
     }
 
+
+
+
+
+
+
+
+
+
+    //new lines of codes just to git commands are working hter are 
+
 }
